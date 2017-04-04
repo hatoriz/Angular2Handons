@@ -1,2 +1,5 @@
+.DS_Store
+dist
+jspm_packages
+typings
 node_modules
-/Users/hatoriz/GitHub/ANGULAR/Angular2Handons/chapter2/auction/node_modules
