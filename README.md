@@ -3,12 +3,12 @@
 ## using angular-cli
 reference [https://github.com/angular/angular-cli]
 
-###create new project
+### create new project
 ng new $PROJECT_NAME
 cd $PROJECT_NAME
 ng serve
 
-###generate new component
+### generate new component
 
 ```
 You can find all possible blueprints in the table below:
